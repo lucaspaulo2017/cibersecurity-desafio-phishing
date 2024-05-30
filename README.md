@@ -6,8 +6,8 @@ Neste desafio de projeto, iremos criar um Phishing para capturar senhas de login
 
 ### Ferramentas
 
-- <img title="Kali Linux" src="https://www.iconarchive.com/download/i150099/simpleicons-team/simple/kali-linux.1024.png" width="70pix" height="70pix" align="middle"> Kali Linux</img> 
-- <img title="setoolkit" src="https://gitlab.com/uploads/-/system/project/avatar/11904292/kali-set.png" width="70pix" height="70pix" align="middle"> setoolkit</img>
+- <img title="setoolkit" src="https://juststickers.in/wp-content/uploads/2019/11/Kali-linux.png" width="70px" height="70px" align="middle"> Kali Linux</img>
+- <img title="setoolkit" src="https://gitlab.com/uploads/-/system/project/avatar/11904292/kali-set.png" width="70px" height="70px" align="middle"> setoolkit</img> 
 
 ### Configurando o Phishing no Kali Linux
 
